@@ -13,4 +13,5 @@
 # 5. Insights and Findings
 ##### •Expected insights include: High-performing players and teams, Tactical patterns leading to victories, Teams' strengths and weaknesses.
 # 6. Results
-##### •Deliverables: Summary tables and visualizations, SQL scripts for analysis, Presentation-ready insights for Football Digest.
+##### Deliverables: 
+###### •Summary tables and visualizations, SQL scripts for analysis, Presentation-ready insights for Football Digest.
