@@ -5,12 +5,7 @@ in-depth analytics to enhance audience understanding of each FIFA World Cup ma
 # 2. Project Overview
  The project analyzes FIFA World Cup data to provide insights into match outcomes, player performances, 
      and team strategies. The insights enhance the Sky Sports Football Digest: Post Match Analysis program, 
-     giving viewers an in-depth understanding of match events and tactical decisions.    
-     Key Objectives:
-      •Evaluate team performance during group stages and the overall tournament.
-      •Identify standout players based on their contributions.
-      •Analyze tactical strategies using possession and shooting data.
-      •Highlight key moments and turning points of matches.
+     giving viewers an in-depth understanding of match events and tactical decisions. 
 # 3. Key Analysis Performed
      Team Performance: 
       •Goals scored vs. goals conceded for assessing offensive and defensive effectiveness.
