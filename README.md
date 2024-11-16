@@ -3,9 +3,9 @@ FIFA World Cup Analysis: A MySQL-based project analyzing match data from group_s
 insights on team performance, player stats, goals, cards, and tactics. Supports "Football Digest: Post Match Analysis" by delivering 
 in-depth analytics to enhance audience understanding of each FIFA World Cup match.
 # 2. Project Overview
-     The project analyzes FIFA World Cup data to provide insights into match outcomes, player performances, and team strategies. The 
-     insights enhance the Sky Sports Football Digest: Post Match Analysis program, giving viewers an in-depth understanding of match 
-     events and tactical decisions.
+ The project analyzes FIFA World Cup data to provide insights into match outcomes, player performances, 
+     and team strategies. The insights enhance the Sky Sports Football Digest: Post Match Analysis program, 
+     giving viewers an in-depth understanding of match events and tactical decisions.    
      Key Objectives:
       •Evaluate team performance during group stages and the overall tournament.
       •Identify standout players based on their contributions.
