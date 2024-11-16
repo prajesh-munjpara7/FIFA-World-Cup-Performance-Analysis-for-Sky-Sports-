@@ -1,5 +1,5 @@
 # 1. FIFA-World-Cup-Performance-Analysis-for-Sky-Sports (MySQL)
-     A MySQL-based project analyzing match data from group_stage_team_stats and overall_wc_stats tables. 
+A MySQL-based project analyzing match data from group_stage_team_stats and overall_wc_stats tables. 
      Generates insights on team performance, player stats, goals, cards, and tactics. Supports "Football Digest: Post Match 
      Analysis" by delivering in-depth analytics to enhance audience understanding of each FIFA World Cup match.
 # 2. Project Overview
