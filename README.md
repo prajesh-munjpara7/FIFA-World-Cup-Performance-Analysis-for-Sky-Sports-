@@ -1,9 +1,9 @@
 # 1. FIFA-World-Cup-Performance-Analysis-for-Sky-Sports
  • A MySQL-based project analyzing match data from group_stage_team_stats and overall_wc_stats tables. Generates insights on team performance, player stats, goals, cards, 
-  and tactics. Supports "Football Digest: Post Match Analysis" by delivering in-depth analytics to enhance audience understanding of each FIFA World Cup match.
+   and tactics. Supports "Football Digest: Post Match Analysis" by delivering in-depth analytics to enhance audience understanding of each FIFA World Cup match.
 # 2. Project Overview
-̉ • The project involves analyzing FIFA World Cup data to derive insights from match and team statistics. These insights are used to enhance post-match discussions on Sky 
-   Sports' program Football Digest: Post Match Analysis.
+̉ • The project involves analyzing FIFA World Cup data to derive insights from match and team statistics. These insights are used to enhance 
+   post-match discussions on Sky Sports' program Football Digest: Post Match Analysis.
 # 3. Key Analysis Performed
  •Team Performance: Goals scored and conceded, Shooting accuracy: shots on target vs. shots off target, Possession and other gameplay metrics.
  •Player Contributions: Goals, assists, and disciplinary actions (yellow/red cards), Player position and appearances to highlight key performers.
