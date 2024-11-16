@@ -171,8 +171,3 @@ order by round(avg(O.passes_pct),2) desc;
 select round(avg(O.goals_per90),2), G.group from overall_wc_stats O inner join group_stage_team_stats G on G.team = O.team
 group by `group` 
 order by round(avg(O.goals_per90),2) asc;
-
-
-
-
-
