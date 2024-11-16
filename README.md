@@ -9,9 +9,9 @@ giving viewers an in-depth understanding of match events and tactical decisions.
 ##Key Objectives: Evaluate team performance during group stages and the overall tournament, Identify standout players based on their contributions, 
 Analyze tactical strategies using possession and shooting data, Highlight key moments and turning points of matches.
 # 3. Key Analysis Performed
-## Team Performance: Goals scored vs. goals conceded for assessing offensive and defensive effectiveness.
-## Player Contributions: Goals and assists to identify high-impact players, Positional analysis to compare performance across different player roles.
-## Tactical and Match Highlights: Key moments like game-turning goals or critical defensive actions, Tactical strategies based on possession and shooting statistics.
+### Team Performance: Goals scored vs. goals conceded for assessing offensive and defensive effectiveness.
+### Player Contributions: Goals and assists to identify high-impact players, Positional analysis to compare performance across different player roles.
+### Tactical and Match Highlights: Key moments like game-turning goals or critical defensive actions, Tactical strategies based on possession and shooting statistics.
 # 4. Technologies Used
 •Database: DBever for querying and joining tables.
 •Repository: GitHub for version control and project documentation.
