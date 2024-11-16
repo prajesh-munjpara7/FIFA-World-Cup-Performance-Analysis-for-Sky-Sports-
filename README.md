@@ -29,5 +29,7 @@
 # 6. Results
 #### Deliverables: 
 ##### •Summary tables and visualizations.
-##### •SQL scripts for analysis. 
-##### •Presentation-ready insights for Football Digest.
+##### •Queries for generating insights, such as top scorers, team rankings, and possession impact.
+#### Documentation:
+##### •README.md with instructions to run the project locally.
+##### •Step-by-step guides for reproducing the analysis.
